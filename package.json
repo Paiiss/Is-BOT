@@ -1,0 +1,26 @@
+{
+  "name": "Is-BOT",
+  "version": "1.0.0",
+  "description": "Thanks for all",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "pais",
+  "repository": {
+    "url": "https://github.com/Paiiss/"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@open-wa/wa-automate": "^3.1.16",
+    "figlet": "1.5.0",
+    "dotenv": "8.2.0",
+    "moment-timezone": "0.5.32",
+    "fs-extra": "9.1.0",
+    "lolcatjs": "2.4.0"
+  }
+}
